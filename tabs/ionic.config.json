@@ -1,6 +1,6 @@
 {
   "name": "tabs",
-  "app_id": "",
+  "app_id": "e2cbc67f",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
